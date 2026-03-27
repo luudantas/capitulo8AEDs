@@ -4,7 +4,7 @@
     Autora: Luana Dantas
     Data: 27/3/26
 */
-int fazSoma(a,b,c)
+int fazSoma(int int int a,b,c)
 {
     int soma=0;
     if (a>0)
