@@ -4,7 +4,7 @@
     Autora: Luana Dantas
     Data: 27/3/26
 */
-int soma (x,y)
+int soma (int int x,y)
 {
     int result=0;
     if (x <= y)
